@@ -1,0 +1,2 @@
+# FlickClean
+Privacy Policy
