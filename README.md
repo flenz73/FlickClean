@@ -1,6 +1,6 @@
 # Privacy Policy for FlickClean
 
-Last updated: March 19, 2024
+Last updated: June 12, 2025
 
 ## Introduction
 
