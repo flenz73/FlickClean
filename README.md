@@ -10,7 +10,7 @@ FlickClean ("we", "our", or "us") is committed to protecting your privacy. This 
 
 For the purposes of the GDPR, we are the data controller of your personal data. If you have any questions about this Privacy Policy or our data practices, please contact us at:
 - Email: 1990Den90@gmail.com
-- Website: https://github.com/flenz73/FlickClean/blob/main/README.md
+- Website: https://flenz73.github.io/FlickClean/
 
 ## Legal Basis for Processing
 
@@ -130,7 +130,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 - Email: 1990Den90@gmail.com
-- Website: https://github.com/flenz73/FlickClean/blob/main/README.md
+- Website: https://flenz73.github.io/FlickClean/
 
 ## Compliance
 
